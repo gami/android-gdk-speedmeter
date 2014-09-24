@@ -18,7 +18,7 @@
     </style>
 
    <style name="ChronometerComponent">
-        <item name="android:layout_width">480px</item>
+        <item name="android:layout_width">520px</item>
         <item name="android:layout_height">150px</item>
         <item name="android:layout_gravity">center</item>
         <item name="android:layout_marginTop">-17px</item>
